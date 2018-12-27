@@ -5,8 +5,7 @@
   {applications,
    [
     kernel,
-    stdlib,
-    validerl
+    stdlib
    ]},
   {mod, {kafkerl, []}},
   {env, []},
